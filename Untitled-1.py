@@ -9,6 +9,6 @@ print(f"Python Executable: {sys.executable}")
 
 import numpy as np
 a = np.array([1,2,3,4])
-print(f"Type of a: {type(a)}")
+print(f"Type of a: {type(a)}")()
 print(f"Memory address of a: {id(a)}")
 print(f"Python Executable: {sys.executable}")
